@@ -22,7 +22,7 @@
             },
             "AutoAim" : {
                "Enabled" : true,
-               "FOV" : 180.00001525878906,
+               "FOV" : 93.090003967285156,
                "RealDistance" : false
             },
             "AutoPistol" : {
@@ -91,7 +91,7 @@
             },
             "AutoAim" : {
                "Enabled" : true,
-               "FOV" : 180.00001525878906,
+               "FOV" : 79.185005187988281,
                "RealDistance" : false
             },
             "AutoPistol" : {
@@ -229,7 +229,7 @@
             },
             "AutoAim" : {
                "Enabled" : true,
-               "FOV" : 180.00001525878906,
+               "FOV" : 89.227005004882812,
                "RealDistance" : false
             },
             "AutoPistol" : {
@@ -305,12 +305,12 @@
          "enabled" : false
       },
       "Pitch" : {
-         "enabled" : true,
+         "enabled" : false,
          "type" : 1
       },
       "Yaw" : {
          "antiResolver" : false,
-         "enabled" : true,
+         "enabled" : false,
          "type" : 4,
          "type_fake" : 4
       }
@@ -336,9 +336,9 @@
    "ClanTagChanger" : {
       "animation" : false,
       "animation_speed" : 650,
-      "enabled" : false,
+      "enabled" : true,
       "type" : 0,
-      "value" : ""
+      "value" : "KKK"
    },
    "DisablePostProcessing" : {
       "enabled" : false
@@ -368,8 +368,8 @@
                "g" : 0.77889448404312134,
                "r" : 0.12133531272411346
             },
-            "enabled" : true,
-            "type" : 3
+            "enabled" : false,
+            "type" : 0
          },
          "Weapon" : {
             "color" : {
@@ -378,7 +378,7 @@
                "g" : 1,
                "r" : 1
             },
-            "enabled" : true
+            "enabled" : false
          },
          "enabled" : true,
          "hp_ally_color" : false,
@@ -695,10 +695,10 @@
       "key" : "MOUSE4"
    },
    "FOVChanger" : {
-      "enabled" : true,
+      "enabled" : false,
       "ignore_scope" : false,
-      "value" : 136.75300598144531,
-      "viewmodel_enabled" : true,
+      "value" : 98.154006958007812,
+      "viewmodel_enabled" : false,
       "viewmodel_value" : 61.558002471923828
    },
    "FakeLag" : {
@@ -1428,12 +1428,12 @@
       "spammer_type" : 0
    },
    "Teleport" : {
-      "enabled" : true,
+      "enabled" : false,
       "key" : 109
    },
    "ThirdPerson" : {
       "distance" : 90,
-      "enabled" : true
+      "enabled" : false
    },
    "Triggerbot" : {
       "Delay" : {
@@ -1479,7 +1479,7 @@
          "a" : 1,
          "b" : 1,
          "g" : 0,
-         "r" : 0.70318222045898438
+         "r" : 0.70180845260620117
       }
    },
    "View" : {

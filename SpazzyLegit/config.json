@@ -2392,7 +2392,7 @@
       "enabled" : false
    },
    "AutoStrafe" : {
-      "enabled" : true,
+      "enabled" : false,
       "silent" : true,
       "type" : 0
    },
@@ -2401,7 +2401,7 @@
       "key" : 32
    },
    "BHop" : {
-      "enabled" : true
+      "enabled" : false
    },
    "ClanTagChanger" : {
       "animation" : false,
